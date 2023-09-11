@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    display: block;
+    
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 7rem;
+    font-weight: 900;
+    color:rgb(255, 0, 0);
+    border-bottom: 2px solid red;
+    margin-top:100px;
+    
+}
+h1:active{
+    color:black;
+    
+}
+
+h2{
+    font-size: 2rem;
+}
+
+p{
+
+    font-size: 2rem;
+} 
+ .blue {
+    color:blue;
+}
+ .red {
+    color:red;
+}
+#purple{
+    color:purple;
+}
+ .hover_class:hover{
+    color:whitesmoke;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
