@@ -26,13 +26,13 @@ p{
 
     font-size: 2rem;
 } 
- .blue {
+ p.blue {
     color:blue;
 }
- .red {
+ p.red {
     color:red;
 }
-#purple{
+p#purple{
     color:purple;
 }
  .hover_class:hover{
